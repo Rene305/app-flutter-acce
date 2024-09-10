@@ -1,0 +1,13 @@
+[
+    {        
+        "nombre" : "juan perez",
+        "cedula" : "0150225647",
+        "celular" : "0967881269",
+        "ciudad" : "cuenca",
+        "provincia" : "azuay",
+        "edad" : 12,
+        "correo" : "recuperar",
+        "sexo" : "masculino",
+        "tipoPaciente" : "cancer"
+    }    
+]

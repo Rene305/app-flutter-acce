@@ -1,0 +1,288 @@
+[
+    {
+        "id": 1,
+        "name" : "Asociación Ecuatoriana de Ayuda a Pacientes con Cáncer “Esperanza y Vida",
+        "city" : "Guayaquil",
+        "logo" : "assets/images/banners_foundations/fundacion1.png",
+        "socialNetwork" :[
+                {
+                    "facebook":"https://www.facebook.com/Asociaci%C3%B3n-Ecuatoriana-de-ayuda-a-pacientes-con-c%C3%A1ncer-Esperanza-y-Vida-218190191657024",
+                    "twitter":"",
+                    "instagram":"",
+                    "tiktok":""
+                }            
+        ] ,
+        "services":[""],
+        "location":[
+            {                
+                "longitude":"",
+                "latitude":""
+            }
+        ],
+        "representative": "Presidenta Francisca Reinoso"
+    },
+    {
+        "id": 2,
+        "name" : "Fundación Camila Salomé",
+        "city" : "Quito",
+        "logo" : "assets/images/banners_foundations/fundacion2.png",
+        "socialNetwork" :[
+                {
+                    "facebook":"https://www.facebook.com/fundacioncamilasalome",
+                    "twitter":"",
+                    "instagram":"",
+                    "tiktok":""
+                }            
+        ] ,
+        "services":[""],
+        "location":[
+            {
+                "longitude":"",
+                "latitude":""
+            }
+        ],
+        "representative": "Rocío Zapata"
+    },
+    {
+        "id": 3,
+        "name" : "Fundación Vida “Unidos contra el Cáncer”",
+        "city" : "Puyo",
+        "logo" : "assets/images/banners_foundations/fundacion3.png",
+        "socialNetwork" :[
+                {
+                    "facebook":"https://www.facebook.com/Vida.Puyo",
+                    "twitter":"fundación vida",
+                    "instagram":"",
+                    "tiktok":""
+                }            
+        ] ,
+        "services":[""],
+        "location":[
+            {                
+                "longitude":"",
+                "latitude":""
+            }
+        ],
+        "representative": "Cristian Chimborazo / Mariana Arce"
+    },
+    {
+        "id": 4,
+        "name" : "Asociación Prodesarrollo Social Integral – FUPEC",
+        "city" : "Cuenca",
+        "logo" : "assets/images/banners_foundations/fundacion4.png",
+        "socialNetwork" :[
+                {
+                    "facebook":"https://www.facebook.com/FUPEC.EC",
+                    "twitter":"",
+                    "instagram":"fupececuador",
+                    "tiktok":""
+                }            
+        ] ,
+        "services":[""],
+        "location":[
+            {                
+                "longitude":"",
+                "latitude":""
+            }
+        ],
+        "representative": "María Fernanda Jimbo"
+    },
+    {
+        "id": 5,
+        "name" : "Fundación Cottolengo",
+        "city" : "Manta",
+        "logo" : "assets/images/banners_foundations/fundacion5.png",
+        "socialNetwork" :[
+                {
+                    "facebook":"https://www.facebook.com/fundacioncottolengo.net",
+                    "twitter":"@Fund_Cottolengo",
+                    "instagram":"",
+                    "tiktok":""
+                }            
+        ] ,
+        "services":[""],
+        "location":[
+            {
+                "longitude":"",
+                "latitude":""
+            }
+        ],
+        "representative": "Sra. María del Carmen Crecenti"
+    },
+    {
+        "id": 6,
+        "name" : "Fundación María José Lemos",
+        "city" : "Guayaquil",
+        "logo" : "assets/images/banners_foundations/fundacion6.png",
+        "socialNetwork" :[
+                {
+                    "facebook":"https://www.facebook.com/FundacionMariaJoseLemos",
+                    "twitter":"",
+                    "instagram":"",
+                    "tiktok":""
+                }            
+        ] ,
+        "services":[""],
+        "location":[
+            {
+                "longitude":"",
+                "latitude":""
+            }
+        ],
+        "representative": "María José Lemos"
+    },
+    {
+        "id": 8,
+        "name" : "Fundación BEKAMPA LMC ECUADOR",
+        "city" : "Quito",
+        "logo" : "assets/images/banners_foundations/fundacion8.png",
+        "socialNetwork" :[
+                {
+                    "facebook":"https://www.facebook.com/Fundaci%C3%B3n-Bek%C3%A4mpa-LMC-Ecuador-109210381256175/?ref=page_internal",
+                    "twitter":"",
+                    "instagram":"",
+                    "tiktok":""
+                }            
+        ] ,
+        "services":[""],
+        "location":[
+            {                
+                "longitude":"",
+                "latitude":""
+            }
+        ],
+        "representative": "Patricio Baca"
+    },
+    {
+        "id": 9,
+        "name" : "FUNDACIÓN EL CIELO PARA LOS NIÑOS",
+        "city" : "Guayaquil",
+        "logo" : "assets/images/banners_foundations/fundacion9.png",
+        "socialNetwork" :[
+                {
+                    "facebook":"https://www.facebook.com/elcieloparalosninos",
+                    "twitter":"",
+                    "instagram":"",
+                    "tiktok":""
+                }            
+        ] ,
+        "services":[""],
+        "location":[
+            {
+                "longitude":"",
+                "latitude":""
+            }
+        ],
+        "representative": "Psc. Carmen Figueroa Aguilar"
+    },
+    {
+        "id": 10,
+        "name" : "ASONIC",
+        "city" : "Quito",
+        "logo" : "assets/images/banners_foundations/fundacion10.png",
+        "socialNetwork" :[
+                {
+                    "facebook":"https://www.facebook.com/ASONICEcuador",
+                    "twitter":"",
+                    "instagram":"",
+                    "tiktok":""
+                }            
+        ] ,
+        "services":[""],
+        "location":[
+            {                
+                "longitude":"",
+                "latitude":""
+            }
+        ],
+        "representative": "Cont. Carmen Gutiérrez Endara"
+    },
+    {
+        "id": 11,
+        "name" : "LEACC",
+        "city" : "Quito",
+        "logo" : "assets/images/banners_foundations/fundacion11.png",
+        "socialNetwork" :[
+                {
+                    "facebook":"https://www.facebook.com/LEACC-104352635033685",
+                    "twitter":"",
+                    "instagram":"",
+                    "tiktok":""
+                }            
+        ] ,
+        "services":[""],
+        "location":[
+            {                
+                "longitude":"",
+                "latitude":""
+            }
+        ],
+        "representative": "Carmen Dorado"
+    },
+    {
+        "id": 12,
+        "name" : "Fuerza Rosa",
+        "city" : "Quito",
+        "logo" : "assets/images/banners_foundations/fundacion12.png",
+        "socialNetwork" :[
+                {
+                    "facebook":"https://www.facebook.com/fuerzarosa.org.ec",
+                    "twitter":"",
+                    "instagram":"",
+                    "tiktok":""
+                }            
+        ] ,
+        "services":[""],
+        "location":[
+            {                
+                "longitude":"",
+                "latitude":""
+            }
+        ],
+        "representative": "Gabriela Rivadeneira"
+    },
+    {
+        "id": 13,
+        "name" : "Tiempo de Cambio ",
+        "city" : "Ambato",
+        "logo" : "assets/images/banners_foundations/fundacion13.png",
+        "socialNetwork" :[
+                {
+                    "facebook":"",
+                    "twitter":"",
+                    "instagram":"",
+                    "tiktok":""
+                }            
+        ] ,
+        "services":[""],
+        "location":[
+            {                
+                "longitude":"",
+                "latitude":""
+            }
+        ],
+        "representative": "Francisco Cristobal Luzuriaga Quiñonez"
+    },
+    {
+        "id": 14,
+        "name" : "ROSITA LÓPEZ DE GARCÍA",
+        "city" : "Guayaquil",
+        "logo" : "assets/images/banners_foundations/fundacion14.png",
+        "socialNetwork" :[
+                {
+                    "facebook":"",
+                    "twitter":"",
+                    "instagram":"",
+                    "tiktok":""
+                }            
+        ] ,
+        "services":[""],
+        "location":[
+            {                
+                "longitude":"",
+                "latitude":""
+            }
+        ],
+        "representative": "Miriam Leticia Macías Peñafiel"
+    }
+]
